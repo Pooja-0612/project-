@@ -1,0 +1,7 @@
+{"coord":{"lon":77.6033,"lat":12.9762},"weather":
+[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],
+"base":"stations","main":{"temp":301.07,"feels_like":301.69,"temp_min":299.05,
+"temp_max":301.21,"pressure":944,"humidity":52},
+"visibility":8000,"wind":{"speed":3.09,"deg":310},"clouds":{"all":40},"dt":1624349802,
+"sys":{"type":2,"id":2017753,"country":"IN","sunrise":1624321491,"sunset":1624367891},
+"timezone":19800,"id":1277333,"name":"Bengaluru","cod":200}
